@@ -1,0 +1,30 @@
+{
+  "name": "Mozart Finance Default List",
+  "timestamp": "2021-04-01T09:56:23Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://assets.coingecko.com/coins/images/4372/small/CPuCDZX.jpg",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "LION Token",
+      "symbol": "LION",
+      "address": "0x3Aa14439b47a84C46048Ac973060AF52B1b794eE",
+      "chainId": 841,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/emmanbol/swap_lions/main/images/coins/lion_logo.png"
+    },
+    {
+      "name": "WTARA Token",
+      "symbol": "WTARA",
+      "address": "0xAb6c89f4a217E691BEe4ab1A433221e5C2D249c0",
+      "chainId": 841,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/emmanbol/swap_lions/main/images/coins/TARA.png"
+    }
+  ]
+}
